@@ -3,7 +3,7 @@
 
 **`Android Software Engineer`**
 
-I'm Android Software Engineer,Working hard to make software better ⚡ I'm specialize in providing high quality native android solutions. Helping companies build complex Mobile applications that serve users around the world with kotlin and java and modern technologies. Creating and developing applications that are not only beautiful, but pleasant to use and really problem-solving. Always writing not just maintainable and scalable software, but also the readable code that will make the scalability and maintainability possible.I interested in writing code with the best practices and software design principles and architectures.
+Highly skilled and motivated Android Developer with 5+ years of experience in creating innovative and engaging mobile applications. Strong background in Java programming, Android SDK, and modern development practices. Possesses excellent problem-solving and communication skills, with a track record of delivering high-quality results on tight deadlines. Adept at working with cross-functional teams and stakeholders to ensure project success. Passionate about creating user-friendly and intuitive applications that meet customer needs and enhance their experience. Continuously seeking new opportunities to expand knowledge and skills in the Android development space.
 
 <p align="left">
       <a href="mailto:ayodelekehinde@yahoo.com">
