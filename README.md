@@ -7,7 +7,7 @@ I'm Android Software Engineer,Working hard to make software better ⚡ I'm speci
 
 <p align="left">
       <a href="mailto:ayodelekehinde@yahoo.com">
-         <img alt="mail" title="message me" src="https://custom-icon-badges.demolab.com/badge/-adelayman0000@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
+         <img alt="mail" title="message me" src="https://custom-icon-badges.demolab.com/badge/-ayodelekehinde8@yahoo.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
       <a href="https://github.com/ayodelekehinde?tab=repositories">
          <img alt="repos" title="All repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://github.com/ayodelekehinde?tab=followers">
