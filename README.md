@@ -11,22 +11,22 @@ I'm Android Software Engineer,Working hard to make software better ⚡ I'm speci
       <a href="https://github.com/ayodelekehinde?tab=repositories">
          <img alt="repos" title="All repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://github.com/ayodelekehinde?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adelayman1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ayodelekehinde?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ayodelekehinde?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adelayman1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ayodelekehinde?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 <h4 align="left"></h4>
 
-- 🔭 I’m currently working on
-     - [Dilivva](https://play.google.com/store/apps/details?id=com.nqb8.dilivvasender)
-     - [sheetsDB](https://github.com/Cherrio-LLC/sheets-db)
-     - [CashPally](https://play.google.com/store/apps/details?id=com.nqb8.cashpally)
+### 🔭 I’m currently working on
+   - [Dilivva](https://play.google.com/store/apps/details?id=com.nqb8.dilivvasender)
+   - [sheetsDB](https://github.com/Cherrio-LLC/sheets-db)
+   - [CashPally](https://play.google.com/store/apps/details?id=com.nqb8.cashpally)
      
-- 🤔 What I have worked on
-    - [Victoria](https://victoria.cashpally.com)
-    - [Axocheck](https://play.google.com/store/apps/details?id=com.nqb8.axocheck)
-    - [BirdBox](https://play.google.com/store/apps/details?id=com.cherrio.birdbox)
-    - [Previewer](https://play.google.com/store/apps/details?id=com.cherrio.previewer)
+### 🤔 What I have worked on
+   - [Victoria](https://victoria.cashpally.com)
+   - [Axocheck](https://play.google.com/store/apps/details?id=com.nqb8.axocheck)
+   - [BirdBox](https://play.google.com/store/apps/details?id=com.cherrio.birdbox)
+   - [Previewer](https://play.google.com/store/apps/details?id=com.cherrio.previewer)
 
 ### 🌱 I’m currently learning
 - iOS
