@@ -3,7 +3,7 @@
 
 **`Android Software Engineer`**
 
-Highly skilled and motivated Android Developer with 5+ years of experience in creating innovative and engaging mobile applications. Strong background in Java programming, Android SDK, and modern development practices. Possesses excellent problem-solving and communication skills, with a track record of delivering high-quality results on tight deadlines. Adept at working with cross-functional teams and stakeholders to ensure project success. Passionate about creating user-friendly and intuitive applications that meet customer needs and enhance their experience. Continuously seeking new opportunities to expand knowledge and skills in the Android development space.
+Highly skilled and motivated Android Developer with 6+ years of experience in creating innovative and engaging mobile applications. Strong background in Java programming, Android SDK, and modern development practices. Possesses excellent problem-solving and communication skills, with a track record of delivering high-quality results on tight deadlines.
 
 
 <p align="left" alt="ayodelekehinde">
